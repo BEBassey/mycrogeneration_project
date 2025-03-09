@@ -1,12 +1,7 @@
-# Przykłady aplikacji budowanych dla zestawu NUCLEO-F746ZG
+Thesis Project Title: The Solar Energy Production Management within a Microgeneration Plant-Laboratory Bench
 
-Przykładowe aplikacje wbudowane dla zestawu uruchomieniowego NUCLEO z mikrokontrolerem STM32F746ZG na podstawie zajeć laboratoryjnych z przedmiotu *Systemy mikroproceosrorowe* na kierunki Automatyka i Robotyka Politechniki Poznańskiej.
+Project Description The efficient management of the solar energy harvesting process in microgeneration plant laboratory has been undertaken as the project. The whole system has been designed to monitor some key electrical and environmental parameters in order to optimize the production and use of power.
 
-Projekt stworzony za pomocą środowiska STM32CubeIDE w wersji **1.7.0**.
+Hardwares Components: Power Monitoring: Gravity I2C Digital Wattmeter (x3): Used to measure PV voltage, battery voltage, and load current from direct input of the MPPT 75/10 charge controller. Environmental Sensing: BH1750 Light Intensity Sensor: Real-time solar irradiance measurements for sunlight availability assessment. BMP280 Temperature Sensor: It measures temperature on solar panel as in affect on the panel efficiency.
 
-
-# Examples of embedded applications for NUCLEO-F746ZG board
-
-Examples of embedded applications for the NUCLEO development kit with the STM32F746ZG microcontroller based on *Microprocessor systems* laboratory classes on Automatic Control and Robotics at the Poznań University of Technology.
-
-Project created using the STM32CubeIDE environment, version **1.7.0**.
+Microcontroller Unit (MCU) Nucleo-F746ZG: The processing unit is responsible for data acquisition, computation, and communication. Data Display & Communication 2x16 Character LCD (Blue) + I2C Converter (LCM1602): Displays system readings employing I2C communication. Terminal Output: The simulation results and system diagnostics are outputted via UART for real-time monitoring system. Project aims: Accurately measure and analyze solar power generation, battery status, and load consumption. Monitor ambient and panel temperature for assessing thermal effect on solar efficiency. Display real-time sensor readings on LCD screen and serial terminal. Use UART and I2C protocols for data transmission and visualization purposes. This project combines an approach of real-time data acquisition and display in a practical sense of solar energy management in microgeneration configuration.
