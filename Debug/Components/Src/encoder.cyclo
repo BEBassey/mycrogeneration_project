@@ -1,0 +1,2 @@
+../Components/Src/encoder.c:38:6:ENC_Init	1
+../Components/Src/encoder.c:48:10:ENC_GetCounter	1

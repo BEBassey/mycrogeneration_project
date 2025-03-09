@@ -1,0 +1,6 @@
+../Components/Src/bmp280_config.c:69:8:BMP280_Init	1
+../Components/Src/bmp280_config.c:112:8:bmp280_spi_reg_write	3
+../Components/Src/bmp280_config.c:153:8:bmp280_spi_reg_read	3
+../Components/Src/bmp280_config.c:194:8:BMP280_ReadData	1
+../Components/Src/bmp280_config.c:214:7:BMP280_ReadTemperature_degC	1
+../Components/Src/bmp280_config.c:229:7:BMP280_ReadPressure_hPa	1

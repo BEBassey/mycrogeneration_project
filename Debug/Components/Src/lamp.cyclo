@@ -1,0 +1,4 @@
+../Components/Src/lamp.c:42:6:LAMP_StartTimer	3
+../Components/Src/lamp.c:66:6:LAMP_StopTimer	1
+../Components/Src/lamp.c:80:6:LAMP_TriacFiring	2
+../Components/Src/lamp.c:94:6:LAMP_SetBrightness	3

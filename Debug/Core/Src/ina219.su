@@ -1,0 +1,7 @@
+../Core/Src/ina219.c:5:6:INA219_WriteRegister	40	static
+../Core/Src/ina219.c:13:10:INA219_ReadRegister	40	static
+../Core/Src/ina219.c:20:6:INA219_Init	16	static
+../Core/Src/ina219.c:26:7:INA219_GetBusVoltage_mV	24	static
+../Core/Src/ina219.c:32:7:INA219_GetShuntVoltage	24	static
+../Core/Src/ina219.c:38:7:INA219_GetCurrent_mA	16	static
+../Core/Src/ina219.c:43:7:INA219_GetPower	16	static

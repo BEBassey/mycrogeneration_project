@@ -1,0 +1,5 @@
+../Components/Src/digital_output.c:54:6:DIGITAL_OUTPUT_SetLogicHigh	16	static
+../Components/Src/digital_output.c:65:6:DIGITAL_OUTPUT_SetLogicLow	16	static
+../Components/Src/digital_output.c:76:6:DIGITAL_OUTPUT_Toggle	16	static
+../Components/Src/digital_output.c:89:6:DIGITAL_OUTPUT_SetTo	16	static
+../Components/Src/digital_output.c:102:9:DIGITAL_OUTPUT_Read	16	static

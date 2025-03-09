@@ -1,0 +1,4 @@
+../Components/Src/led_rgb.c:36:6:LED_RGB_Init	1
+../Components/Src/led_rgb.c:53:6:LED_RGB_SetDuty	10
+../Components/Src/led_rgb.c:88:7:LED_RGB_GetDuty	5
+../Components/Src/led_rgb.c:113:6:LED_RGB_SetColor	1
