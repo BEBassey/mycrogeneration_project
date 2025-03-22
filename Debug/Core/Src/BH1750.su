@@ -1,0 +1,2 @@
+../Core/Src/BH1750.c:6:9:BH1750_Init	32	static
+../Core/Src/BH1750.c:34:10:BH1750_ReadLux	96	static
